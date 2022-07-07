@@ -1,0 +1,1369 @@
+[
+
+    {
+        "initial": "AAR",
+        "name": "Mr. Annajiat Alim Rasel",
+        "designation": "Senior Lecturer",
+        "status": "Full Time",
+        "room": "UB80714",
+        "email": "annajiat@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/Annajiat%20Alim%20Rasel_0.jpg?itok=lGosQHuS&c=6d4df9bbd818d59b13abfb0df90e5b74"
+    },
+    {
+        "initial": "ABA",
+        "name": "Mr. Mohammed Abid Abrar",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80712",
+        "email": "abid.abrar@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQG4KswVE-rD3g/profile-displayphoto-shrink_800_800/0/1553531515297?e=1662595200&v=beta&t=-cHpGrwVGapI0KJ2AFTQhYINpmYDAEqhreYBDbQQuSo"
+    },
+    {
+        "initial": "ACH",
+        "name": "Dr. Amitabha Chakrabarty",
+        "designation": "Associate Professor",
+        "status": "Full Time",
+        "room": "UB80806",
+        "email": "amitabha@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/Amitabha%20CSE.jpg?itok=IUIbU6Cv&c=bdaa59f4a65ea0b581ca9bc12a965617"
+    },
+    {
+        "initial": "AHR",
+        "name": "Ms. Ahanaf Hassan Rodoshi",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80713",
+        "email": "ahanaf.hassan@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/MS.AHNAF%20HASSAN%20ROODOSHI.jpg?itok=31av0FAi&c=69700ce2ba088a8ba99eb1fdb5414ea4"
+    },
+    {
+        "initial": "AMH",
+        "name": "Mr. Aminul Huq",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80902",
+        "email": "aminul.huq@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/2022/04/26/8063%20%5BMR.AMINUL%20HUQ%5D.jpg?itok=7j0Ca4lj&c=0c32ad43f405fd95cf8c46d13c0efb71"
+    },
+    {
+        "initial": "AMK",
+        "name": "Dr. Abu Mohammad Khan",
+        "designation": "Associate Professor",
+        "status": "Full Time",
+        "room": "UB80710",
+        "email": "abu.khan@bracu.ac.bd"
+    },
+    {
+        "initial": "ARF",
+        "name": "Mr. Arif Shakil",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80905",
+        "email": "arif.shakil@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/Arif%20Shakil%20CSE.jpg?itok=aBSOKjy_&c=0c32ad43f405fd95cf8c46d13c0efb71"
+    },
+    {
+        "initial": "ARK",
+        "name": "Ms. Arnisha Khondaker",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80608",
+        "email": "arnisha.khondaker@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/Arnisha%20Khondaker%20CSE.jpg?itok=Fxaas7ii&c=0c32ad43f405fd95cf8c46d13c0efb71"
+    },
+    {
+        "initial": "ASA",
+        "name": "Dr. Md. Ashraful Alam",
+        "designation": "Assistant Professor",
+        "status": "Full Time",
+        "room": "UB80606",
+        "email": "ashraful.alam@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/Dr.%20Md.%20Ashraful%20Alam.jpg?itok=47mrJbdV&c=0efad7fd5598fcaec7507744a2ec9774"
+    },
+    {
+        "initial": "BRH",
+        "name": "Mr. Beig Rajibul Hasan",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80605",
+        "email": "rajib.hasan@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQFut9JLq-PhHw/profile-displayphoto-shrink_800_800/0/1635562546197?e=1662595200&v=beta&t=up-CuYm4DWIsRsZA9Vmhv_fCwJJJ5kZpdYu3TG3C0i8"
+    },
+    {
+        "initial": "DZK",
+        "name": "Mr. Dewan Ziaul Karim",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80804",
+        "email": "ziaul.karim@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/Dewan%20Ziaul%20Karim%20CSE.jpg?itok=jYTxbnEc&c=705ca3a082f54ed1bc12186025eee77a"
+    },
+    {
+        "initial": "ESF",
+        "name": "Mr. A. M. Esfar-E-Alam",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80809",
+        "email": "esfar.alam@bracu.ac.bd",
+        "imageUrl": "https://scontent.fjsr13-1.fna.fbcdn.net/v/t39.30808-6/238584740_4366747710030568_1889533046085075763_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFMWU_i5URjG0Y0PHR3FgAlATu3dCVOOF0BO7d0JU44XcFUPJNSvvBGn0SfBvq6Wbovh7zR-bTyrOm4o5RUgned&_nc_ohc=arLDopR8oDUAX_lESmk&_nc_ht=scontent.fjsr13-1.fna&oh=00_AT_2qJyTu04ToAc4vkxYuHod9SWAMh3AqC1c6GjeNBN6-g&oe=62C9D961"
+    },
+    {
+        "initial": "FBA",
+        "name": "Mr. Faisal Bin Ashraf",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80803",
+        "email": "faisal.ashraf@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/MR.FAISAL%20BIN%20ASHRAF.jpg?itok=94YZd7fa&c=7c1891f6682db63e07a5bd753e8773ee"
+    },
+    {
+        "initial": "FFZ",
+        "name": "Mr. Farhan Feroz",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80611",
+        "email": "farhan.feroz@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQFaEDbySSCX4g/profile-displayphoto-shrink_800_800/0/1625233082285?e=1662595200&v=beta&t=KsDrVkJmEV0lMzzHc0u-8OS5ewtjOSt2zsYC5OA9wkI"
+    },
+    {
+        "initial": "FNK",
+        "name": "Ms. Fairoz Nower Khan",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80817",
+        "email": "fairoz.khan@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHHGCBPTAigkA/profile-displayphoto-shrink_800_800/0/1603849022302?e=1662595200&v=beta&t=GTryCxiq7BFtuQYkryHMyB0I9z8AlGQcPlAiW8iJrCs"
+    },
+    {
+        "initial": "FRS",
+        "name": "Dr. Farig Yousuf Sadeque",
+        "designation": "Assistant Professor",
+        "status": "Full Time",
+        "room": "UB80807",
+        "email": "farig.sadeque@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQEVSmAdYFODFQ/profile-displayphoto-shrink_200_200/0/1517433059978?e=1658966400&v=beta&t=SLeZR-Y0vhUP0fQstEOE4itfEV1gDpZwsSTLC5cSGoE"
+    },
+    {
+        "initial": "HOS",
+        "name": "Mr. Hossain Arif",
+        "designation": "Assistant Professor",
+        "status": "Full Time",
+        "room": "UB80810",
+        "email": "hossain.arif@bracu.ac.bd"
+    },
+    {
+        "initial": "IBA",
+        "name": "Md. Imran Bin Azad",
+        "designation": "Senior Lecturer",
+        "status": "Full Time",
+        "room": "UB80908",
+        "email": "imran.azad@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFakXuhy623Qg/profile-displayphoto-shrink_800_800/0/1517618270428?e=1662595200&v=beta&t=Cflp-ZUkt8IHKZ97pZPB88Xae0-fNtLnpqe-fzJM1F4"
+    },
+    {
+        "initial": "JMN",
+        "name": "Ms. Jumana",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80603",
+        "email": "jumana@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQEewqpOLlbpWg/profile-displayphoto-shrink_800_800/0/1624705659634?e=1662595200&v=beta&t=hs7TqiCCe6j2RG32liGj_lsTFhn-pPUzPZcZSftKHXk"
+    },
+    {
+        "initial": "KHR",
+        "name": "Dr. Md. Khalilur Rahman",
+        "designation": "Associate Professor",
+        "status": "Full Time",
+        "room": "UB80811",
+        "email": "khalilur@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/Dr.%20Md.%20Khalilur%20Rhaman.jpg?itok=ISKg4A69&c=0efad7fd5598fcaec7507744a2ec9774"
+    },
+    {
+        "initial": "KKB",
+        "name": "Dr. Mohammad Kaykobad",
+        "designation": "Distinguished Professor",
+        "status": "Full Time",
+        "room": "UB80718",
+        "email": "kaykobad@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/Professor%20Kaykobad.png?itok=c3TY77mu&c=a1eebeef7cd96ece8ed7f9a0bb2256e8"
+    },
+    {
+        "initial": "MEH",
+        "name": "Mr. Mehedi Hasan Himel",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80605",
+        "email": "mehedi.hasan.himel@bracu.ac.bd"
+    },
+    {
+        "initial": "MFT",
+        "name": "Mr. Mirza Farhan Bin Tarek",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80812",
+        "email": "mirza.tarek@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/2022/03/14/MIRZA%20FARHAN%20BIN%20TAREK%20%5B%207278%20%5D.jpg?itok=EEOER4Eo&c=ee447baf515535ca920cbcf751308534"
+    },
+    {
+        "initial": "MGR",
+        "name": "Dr. Md. Golam Rabiul Alam",
+        "designation": "Associate Professor",
+        "status": "Full Time",
+        "room": "UB80903",
+        "email": "rabiul.alam@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/Md.%20Golam%20Rabiul%20Alam%20CSE.jpg?itok=Hdf2rKHx&c=0c32ad43f405fd95cf8c46d13c0efb71"
+    },
+    {
+        "initial": "MHB",
+        "name": "Mr. Mursalin Habib",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80611",
+        "email": "mursalin.habib@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGMgLyIHW7YzA/profile-displayphoto-shrink_800_800/0/1517820638687?e=1662595200&v=beta&t=N0CdmnnpBCCc9qKTeunqSe8HiGwSo6OLB8RSHeSFMWE"
+    },
+    {
+        "initial": "MHT",
+        "name": "Ms. Mahrin Tasfe",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80603",
+        "email": "mahrin.tasfe@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/MS.%20MAHRIN%20TASFE.JPG?itok=-zhXPRpN&c=7c1891f6682db63e07a5bd753e8773ee"
+    },
+    {
+        "initial": "MIH",
+        "name": "Dr. Muhammad Iqbal Hossain",
+        "designation": "Assistant Professor",
+        "status": "Full Time",
+        "room": "UB80911",
+        "email": "iqbal.hossain@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/Muhammad%20Iqbal%20Hossain%20CSE.jpg?itok=5gJ0PK3J&c=cb44bbca44280899707cae174d175c43"
+    },
+    {
+        "initial": "MMM",
+        "name": "Mr. Moin Mostakim",
+        "designation": "Senior Lecturer",
+        "status": "Full Time",
+        "room": "UB80709",
+        "email": "mostakim@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/MMM.jpg?itok=DOvBt50y&c=fdf0fc94bed82532929ab79cc9ba27c7"
+    },
+    {
+        "initial": "MNB",
+        "name": "Meem Arafat Manab",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80613",
+        "email": "meem.arafat@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFrAl-Q066xOQ/profile-displayphoto-shrink_800_800/0/1635359923854?e=1662595200&v=beta&t=urecVq95OX6CuZcvRRgSpG1are7Xyz1QVIzZItvlLtA"
+    },
+    {
+        "initial": "MOM",
+        "name": "Mr. Mobashir Monim",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80905",
+        "email": "mobashir.monim@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQESkiRTXpSK6Q/profile-displayphoto-shrink_800_800/0/1522639946220?e=1662595200&v=beta&t=-zxVrMTJojI-ca6CBKu8j748l0ngFUcq2khSmpNlseE"
+    },
+    {
+        "initial": "MSI",
+        "name": "Mr. Md. Saiful Islam",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80805",
+        "email": "md.saiful.islam@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/MR.MD_.SAIFUL%20ISLAM%20%5B8841%5D.JPG?itok=YZKxb_jX&c=ee447baf515535ca920cbcf751308534"
+    },
+    {
+        "initial": "MZH",
+        "name": "Mr. Mohammad Zahidul Hasan",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80613",
+        "email": "zadid.hasan@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQE7E9e6AF5bhQ/profile-displayphoto-shrink_800_800/0/1631644427715?e=1662595200&v=beta&t=BpdnqNxMISTKtUkQ_kn6GNMoMmUFT_pJ3tgwtBr3sHA"
+    },
+    {
+        "initial": "NAB",
+        "name": "Ms. Nishat Anjum Bristy",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80610",
+        "email": "nishat.anjum@bracu.ac.bd",
+        "imageUrl": "https://nishatbristy007.github.io/my_site/bristy.jpg"
+    },
+    {
+        "initial": "NNC",
+        "name": "Ms. Najeefa Nikhat Choudhury",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80814",
+        "email": "najeefa.chy@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/MS.NAJEEFA%20NIKHAT%20CHOUDHURY.jpg?itok=zYjqwXz5"
+    },
+    {
+        "initial": "NRT",
+        "name": "Ms. Nadia Rubaiyat",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80817",
+        "email": "nadia.rubaiyat@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGvsQGF2OngGg/profile-displayphoto-shrink_800_800/0/1588316733960?e=1662595200&v=beta&t=Oq_KGaMXiUOTx2Noo2dL0nhGY5yfU2XzlX_eNJ9Qgw4"
+    },
+    {
+        "initial": "NYN",
+        "name": "Dr. Muhammad Nur Yanhaona",
+        "designation": "Associate Professor",
+        "status": "Full Time",
+        "room": "UB80808",
+        "email": "nur.yanhaona@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQEgPqdCdsZM-Q/profile-displayphoto-shrink_800_800/0/1517570280909?e=1662595200&v=beta&t=0LPqNzthksNlQ9MoJK4hMqXDOPDQoiyfNWR-iti-rXQ"
+    },
+    {
+        "initial": "NZN",
+        "name": "Mr. Nabuat Zaman Nahim",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80815",
+        "email": "nabuat.zaman@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/2022/04/27/180A1626.jpg?itok=lVzN2nN_&c=c3be565c0754595969641a57d576e0b9"
+    },
+    {
+        "initial": "RAK",
+        "name": "Mr. Rubayat Ahmed Khan",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80812",
+        "email": "rubayat.ahmed@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/Rubayat%20Ahmed%20Khan.jpg?itok=Ec2svaAG&c=0efad7fd5598fcaec7507744a2ec9774"
+    },
+    {
+        "initial": "RRH",
+        "name": "Mr. Rafeed Rahman",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB40307",
+        "email": "rahman.rafeed@bracu.ac.bd"
+    },
+    {
+        "initial": "RSA",
+        "name": "Mr. Ramkrishna Saha",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80804",
+        "email": "rk.saha@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQGm83ZrLXizfA/profile-displayphoto-shrink_800_800/0/1560425149620?e=1662595200&v=beta&t=93hMrUBwHm_yEF4L3yD7Wp9jiRBMeqmf6v1I9LhNr9Y"
+    },
+    {
+        "initial": "SAD",
+        "name": "Mr. Salman Sayeed Khan",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80803",
+        "email": "salman.sayeed@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/Salman%20Sayeed%20Khan%20CSE.jpg?itok=Gm3oXMLy&c=0c32ad43f405fd95cf8c46d13c0efb71"
+    },
+    {
+        "initial": "SDK",
+        "name": "Mr. Saadat Hasan Khan",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80904",
+        "email": "saadat.hasan@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQHOjRC2Q9IyWw/profile-displayphoto-shrink_800_800/0/1533146499033?e=1662595200&v=beta&t=JzjFtON8X-b3ErwJLGmg-1J5KRfWLunS_8qaGjDL0xs"
+    },
+    {
+        "initial": "SEJ",
+        "name": "Ms. Sifat E Jahan",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80814",
+        "email": "sifat.jahan@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/SIFAT.%20F.%20JAHAN.jpg?itok=Q0U87cJQ&c=7c1891f6682db63e07a5bd753e8773ee"
+    },
+    {
+        "initial": "SHA",
+        "name": "Mr. Shahnewaz Ahmed",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80719",
+        "email": "shahnewaz.ahmed@bracu.ac.bd"
+    },
+    {
+        "initial": "SHS",
+        "name": "Mr. Shadman Shahriar",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80719",
+        "email": "shadman.shahriar@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQE56i-jBRLu5Q/profile-displayphoto-shrink_800_800/0/1598012574505?e=1662595200&v=beta&t=G-i-fOA-sdw8Ils-_1GYs233QLQp9hDtotQJ00-zkrQ"
+    },
+    {
+        "initial": "SKZ",
+        "name": "Dr. Sadia Hamid Kazi [Chairperson]",
+        "designation": "Associate Professor; Chairperson",
+        "status": "Full Time",
+        "room": "UB80707",
+        "email": "skazi@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/Sadia%20Hamid%20Kazi%20CSE.jpg?itok=AzeB3tbF&c=0c32ad43f405fd95cf8c46d13c0efb71"
+    },
+    {
+        "initial": "SMU",
+        "name": "Mr. Mirza Md. Tanjim Shorif Mugdho",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80612",
+        "email": "mirza.mugdho@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQFsdli7RKv5KQ/profile-displayphoto-shrink_800_800/0/1528441950882?e=1662595200&v=beta&t=-Ild1q2UVs-avTwjXC501ZCOVXJe95wVfVVjr2hd6rk"
+    },
+    {
+        "initial": "SRF",
+        "name": "Ms. Syeda Ramisa Fariha",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80813",
+        "email": "ramisa.fariha@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/Syeda%20Ramisa%20Fariha%20CSE.jpg?itok=NpXjD9dv&c=0c32ad43f405fd95cf8c46d13c0efb71"
+    },
+    {
+        "initial": "SRJ",
+        "name": "Ms. Mehnaz Seraj",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80609",
+        "email": "seraj.mehnaz@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/MS.MEHNAZ%20SERAJ.jpg?itok=ntvR5RWY&c=69700ce2ba088a8ba99eb1fdb5414ea4"
+    },
+    {
+        "initial": "SRO",
+        "name": "Ms. Shaily Roy",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80608",
+        "email": "shaily.roy@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/SHAILY%20ROY%20%5B%207232%20%5D.jpg?itok=48qGnqDJ&c=ee447baf515535ca920cbcf751308534"
+    },
+    {
+        "initial": "SSN",
+        "name": "Mr. Mirza Md. Tausif Shorif Snigdho",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80612",
+        "email": "mirza.tausif@bracu.ac.bd"
+    },
+    {
+        "initial": "SZH",
+        "name": "Mr. Syed Zamil Hasan Shoumo",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80805",
+        "email": "shoumo.hasan@bracu.ac.bd"
+    },
+    {
+        "initial": "SZN",
+        "name": "Ms. Shakila Zaman",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80609",
+        "email": "shakila.zaman@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/MS.SHAKILA%20ZAMAN.jpg?itok=ia4HbMxZ&c=69700ce2ba088a8ba99eb1fdb5414ea4"
+    },
+    {
+        "initial": "TAA",
+        "name": "Mr. Tanvir Ahmed",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80712",
+        "email": "tanvir.ahmed@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQEDy0pm74wZBQ/profile-displayphoto-shrink_800_800/0/1516983461880?e=1662595200&v=beta&t=0GxXt1cSt1ItqpwAF-mRA6795QiyxBLX9Lxk8F6JeJI"
+    },
+    {
+        "initial": "TAW",
+        "name": "Mr. Md. Tawhid Anwar",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80815",
+        "email": "tawhid.anwar@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/2022/05/24/Md.%20Tawhid%20Anwar_CSE_7487_v2.jpg?itok=vrvb7sJj&c=bf792efdfc98c81c7cfd0b9c584061ec"
+    },
+    {
+        "initial": "TMD",
+        "name": "Mr. Tamkin Mahmud Tan",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80818",
+        "email": "tamkin.mahmud@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHVfZDec27uLQ/profile-displayphoto-shrink_800_800/0/1633370973734?e=1662595200&v=beta&t=Pq_mQG2GOy85awnvN3Jm71sxgWb5fzXuy4Hr6gp9UeA"
+    },
+    {
+        "initial": "TRZ",
+        "name": "Mr. Md. Tanzim Reza",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80904",
+        "email": "tanzim.reza@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGgamt8e8ZO5w/profile-displayphoto-shrink_800_800/0/1611418904240?e=1662595200&v=beta&t=B0lC84zx6C-gW0eFJzXvahI8YmSg0FeKkwU1m9siKQY"
+    },
+    {
+        "initial": "WAR",
+        "name": "Ms. Warida Rashid",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80813",
+        "email": "warida.rashid@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/Warida_Sep1.jpg?itok=LqkCUKm8&c=51822eb6e48ece92da992c5c29ba9128"
+    },
+    {
+        "initial": "ZMD",
+        "name": "Mr. Zaber Mohammad",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80818",
+        "email": "zaber.mohammad@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGsXG6G9MipbQ/profile-displayphoto-shrink_800_800/0/1592310981576?e=1662595200&v=beta&t=v5DyPVWoggTdYl6yIB_CBRMRX_tHkr-Enpocv-b0AYk"
+    },
+    {
+        "initial": "ZWA",
+        "name": "Ms. Zahin Wahab",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80610",
+        "email": "zahin.wahab@bracu.ac.bd",
+        "imageUrl": "https://qph.cf2.quoracdn.net/main-thumb-363674462-200-kazlevdjqemhrzwudnqfqaixaqharizm.jpeg"
+    },
+    {
+        "initial": "ADR",
+        "name": "Md. Abdur Rahman",
+        "designation": "Lecturer",
+        "status": "Contractual",
+        "email": "abdur.rahman@bracu.ac.bd"
+    },
+    {
+        "initial": "NTR",
+        "name": "Narzu Tarannum",
+        "designation": "Lecturer",
+        "status": "Part Time",
+        "email": "narzu.tarannum@bracu.ac.bd"
+    },
+    {
+        "initial": "AHF",
+        "name": "Abdulla Hil Kafi",
+        "designation": "Research Associate",
+        "status": "Full Time",
+        "email": "abdulla.kafi@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQFDgWYBIDGrqA/profile-displayphoto-shrink_800_800/0/1557216594807?e=1662595200&v=beta&t=XzCTQjAydLn0jVIf7wb1tDwA4xjYV3tYNpHI1HDka-o"
+    },
+    {
+        "initial": "ATR",
+        "name": "Raihana Shams Islam Antara",
+        "designation": "Research Associate",
+        "status": "Full Time",
+        "email": "raihanashams.antara@bracu.ac.bd",
+        "imageUrl": "http://www.unisec-global.org/img/antara.jpg"
+    },
+    {
+        "initial": "SDA",
+        "name": "Sowmitra Das",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "email": "sowmitra.das@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHlAS6LPa9TBg/profile-displayphoto-shrink_800_800/0/1516639349228?e=1662595200&v=beta&t=R4UrX6xtx-8Pj2MAMt56qcCrnvh4iCO6paRkTpKoIm0"
+    },
+    {
+        "initial": "AFI",
+        "name": "Afia Mubassira Islam",
+        "designation": "C. Lecturer",
+        "status": "VC's Fellow",
+        "email": "ext.afia.islam@bracu.ac.bd",
+        "imageUrl": "https://i1.rgstatic.net/ii/profile.image/1030271470145543-1622647268239_Q512/Afia-Islam-2.jpg"
+    },
+    {
+        "initial": "N01",
+        "name": "Shahriar Rahman Rana",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80614",
+        "email": "shahriar.rahman@bracu.ac.bd"
+    },
+    {
+        "initial": "N02",
+        "name": "Md Faisal Ahmed",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80614",
+        "email": "faisal.ahmed@bracu.ac.bd"
+    },
+    {
+        "initial": "N03",
+        "name": "Shoaib Ahmed Dipu",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80615",
+        "email": "shoaib.ahmed@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQEdWqWBDAFbMw/profile-displayphoto-shrink_800_800/0/1617029650370?e=1662595200&v=beta&t=phuFBdmqqa8lhkfBLhcSQCwXbFMMngKwjjs5w2I_g9Q"
+    },
+    {
+        "initial": "N04",
+        "name": "Taufiqul Islam Khan",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80614",
+        "email": "taufiqul.islam@bracu.ac.bd"
+    },
+    {
+        "initial": "N05",
+        "name": "NAVID BIN HASAN",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80615",
+        "email": "navid.hasan@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFah1fCzzjPpA/profile-displayphoto-shrink_800_800/0/1655228540687?e=1662595200&v=beta&t=H1Z9SfQQZKePMFga_ChveuKjOGx_Afv7Q8djjwkx6U8"
+    },
+    {
+        "initial": "N06",
+        "name": "Ajmain Yasar Ahmed",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80615",
+        "email": "ajmain.ahmed@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQHpgYXqoqKxkg/profile-displayphoto-shrink_800_800/0/1636343543713?e=1662595200&v=beta&t=ij-UvOAOZw9m9JJVM_bWUGwgR6D7JAe4WBNC_3dG67k"
+    },
+    {
+        "initial": "N07",
+        "name": "Ruhan Islam",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80615",
+        "email": "ruhan.islam@bracu.ac.bd"
+    },
+    {
+        "initial": "N08",
+        "name": "Avijit Biswas",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80616",
+        "email": "avijit.biswas@bracu.ac.bd"
+    },
+    {
+        "initial": "N09",
+        "name": "A.K.M. Mehedi Hasan",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80616",
+        "email": "akm.mehedi@bracu.ac.bd"
+    },
+    {
+        "initial": "N10",
+        "name": "Rabeeb Ibrat",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80616",
+        "email": "rabeeb.ibrat@bracu.ac.bd"
+    },
+    {
+        "initial": "N11",
+        "name": "Zahin Ahmed",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80713",
+        "email": "zahin.ahmed@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQGC2JGTG-xlWQ/profile-displayphoto-shrink_800_800/0/1586531504625?e=1662595200&v=beta&t=ElhxslU4xVO2CPNk068QqgJzBlgEmhahk-EA4Pn3RG4"
+    },
+    {
+        "initial": "N12",
+        "name": "Abid Jahan Apon",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80616",
+        "email": "abid.jahan@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQHnnw0Kt87TDg/profile-displayphoto-shrink_800_800/0/1533679237247?e=1662595200&v=beta&t=7gD4tyPkse-7tXTFSAOunjf36N8zY2IIpL4Hkkbj3lc"
+    },
+    {
+        "initial": "N13",
+        "name": "Md. Fakhruddin Gazzali",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80615",
+        "email": "fakhruddin.gazzali@bracu.ac.bd"
+    },
+    {
+        "initial": "N14",
+        "name": "A.T.M Mizanur Rahman",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80616",
+        "email": "atm.mizanur@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGebej9TBvgDg/profile-displayphoto-shrink_800_800/0/1588619673574?e=1662595200&v=beta&t=KLkNir1SyDXd0RCmpOmcvE7JUXLHRG0KDERy_jypXOI"
+    },
+    {
+        "initial": "N15",
+        "name": "Nazia Afreen",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80708",
+        "email": "nazia.afreen@bracu.ac.bd"
+    },
+    {
+        "initial": "N16",
+        "name": "Md Shahrar Fatemi",
+        "designation": "Lecturer",
+        "status": "Full Time",
+        "room": "UB80615",
+        "email": "shahrar.fatemi@bracu.ac.bd"
+    },
+    {
+        "initial": "AGD",
+        "name": "Ankan Ghosh Dastider",
+        "designation": "Lecturer I",
+        "status": "Full Time",
+        "room": "UB80819",
+        "email": "ankan.ghosh@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQEwtcZsdSu9oA/profile-displayphoto-shrink_800_800/0/1553483829667?e=1662595200&v=beta&t=js45xfIils7l3rqgTBXimbTbGxINMUMt3nT2Gu3yNh0"
+    },
+    {
+        "initial": "MSM",
+        "name": "Mir Sayeed Mohammad",
+        "designation": "Lecturer I",
+        "status": "Full Time",
+        "room": "UB80819",
+        "email": "sayeed.mohammad@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQF1IJbMYx2XtA/profile-displayphoto-shrink_800_800/0/1577635733685?e=1662595200&v=beta&t=-5TLZ0hLMaDdqN451HbHutMDKMiD0owUQ6BQiyZwDLs"
+    },
+    {
+        "initial": "S02",
+        "name": "Nazmus Sakib Akash",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.nazmus.sakib@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQEd4f0bwOBBlQ/profile-displayphoto-shrink_800_800/0/1634234982195?e=1662595200&v=beta&t=mDD4Rj4hT71qlCxuf2BjXH0JBxgBazFaLYVQWBHXZAE"
+    },
+    {
+        "initial": "S04",
+        "name": "Afia Fairoose Abedin",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.fairoose.abedin@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/D4E35AQHWsfCYfcB3jg/profile-framedphoto-shrink_800_800/0/1634367190870?e=1657753200&v=beta&t=jYkeaCL_f_MMWTp0X6t7sasYqi48feaR71vde7vS4rk"
+    },
+    {
+        "initial": "S05",
+        "name": "Samiha Haque",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.samiha.haque@bracu.ac.bd",
+        "imageUrl": "https://scontent.fjsr13-1.fna.fbcdn.net/v/t39.30808-6/283168060_1719053701774098_1425369040373876858_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE40Fpj-5RACUTsCVv-IoI8jFcU8QUmeJCMVxTxBSZ4kL_MTbm2JrwFCJrqR6gdwCTkg7jzmieWJl0St3errrZ4&_nc_ohc=bHjK34bYVJ0AX8S4k4Q&tn=RhnTz64o1iYenL8d&_nc_ht=scontent.fjsr13-1.fna&oh=00_AT8RlPjqAs_6I0Kn5Mejy8K65oyxxKV837mo2exBp_wqRA&oe=62CBE6A3"
+    },
+    {
+        "initial": "S06",
+        "name": "Mostofa Kamal Sagor",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.mostofa.kamal@bracu.ac.bd"
+    },
+    {
+        "initial": "S07",
+        "name": "Md. Abu Ibrahim",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.abu.ibrahim@bracu.ac.bd"
+    },
+    {
+        "initial": "S08",
+        "name": "Anna Mary Mondol",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.anna.mondol@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQHlvaszm7JfKA/profile-displayphoto-shrink_800_800/0/1618766650022?e=1662595200&v=beta&t=4FGu80ccXKNmkVrOkd3vBfvp6y-oJ63uRs3dTbvmklA"
+    },
+    {
+        "initial": "S09",
+        "name": "ARMAN HOSSAIN",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.arman.hossain@bracu.ac.bd"
+    },
+    {
+        "initial": "S10",
+        "name": "Md. Aquib Azmain",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.aquib.azmain@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/D5603AQF_kQdHoDqWjw/profile-displayphoto-shrink_800_800/0/1645715351534?e=1662595200&v=beta&t=M01adMZEC1yprf0wzdwBoTaQ0dpOsZk_f1ZReGMQ1_8"
+    },
+    {
+        "initial": "S11",
+        "name": "SOMOY SUBANDHU BARUA",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.somoy.subandhu@bracu.ac.bd"
+    },
+    {
+        "initial": "S12",
+        "name": "Ahashan Habib Niloy",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.ahashan.niloy@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/D5603AQGNpH_BDi3Mkg/profile-displayphoto-shrink_800_800/0/1631124142665?e=1662595200&v=beta&t=BvvHA0LC59jff4jgF-s7VU8gIW7kwaXI_rKAt5KX9eY"
+    },
+    {
+        "initial": "S13",
+        "name": "Md. Nowroz Junaed Rahman",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.nowroz.rahman@bracu.ac.bd"
+    },
+    {
+        "initial": "S14",
+        "name": "BENJIR ISLAM ALVEE",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "benjir.islam@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQE9csF0hHV9CQ/profile-displayphoto-shrink_800_800/0/1553440256391?e=1662595200&v=beta&t=5PtzGUbubAnS8lkVEtwJUKbwXHPDNt2cCBA6cwSygNU"
+    },
+    {
+        "initial": "S15",
+        "name": "Md. Shazid Bin Mahbub",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.shazid.mahbub@bracu.ac.bd"
+    },
+    {
+        "initial": "S16",
+        "name": "Sumaiya Tanjil Khan",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "sumaiya.tanjil.khan@g.bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQF6MAk3mlpndw/profile-displayphoto-shrink_800_800/0/1593094926868?e=1662595200&v=beta&t=Mk913i6zs4q_halwP7c0cxdYnJ__eeHD_cibZf7Ssxc"
+    },
+    {
+        "initial": "S17",
+        "name": "Nazibur Rahman",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.nazibur.rahman@bracu.ac.bd"
+    },
+    {
+        "initial": "S19",
+        "name": "Priata Nowshin",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "priata.nowshin@g.bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQHQJhc0AEsxiA/profile-displayphoto-shrink_800_800/0/1623784503094?e=1662595200&v=beta&t=Kzlf3guls9CLrWNNC42KKMpAV6tm9hXe_sTGQxR91GE"
+    },
+    {
+        "initial": "S20",
+        "name": "Zarin Tasnim Biash",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.zarin.tasnim@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQFPDNwTbFrJaw/profile-displayphoto-shrink_800_800/0/1593882867121?e=1662595200&v=beta&t=Ols4YkfrX4xmWe8sv-OpDxjpp8tyaJgsGYvuMYWb_I8"
+    },
+    {
+        "initial": "S21",
+        "name": "Shoummo Ahsan Khandoker",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.shoummo.ahsan@bracu.ac.bd",
+        "imageUrl": "https://scontent.fjsr13-1.fna.fbcdn.net/v/t1.6435-9/123393591_3257443474353261_8129812360186711469_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHNtSc_NeAIILj6ELbOflAX8jO6UR7qvKryM7pRHuq8quTd2lM1c3J4Hmcwy1W-c-ZLIneu4p0QymNTX8Uqc4pL&_nc_ohc=Im-Ph27Pxy8AX8wW7yi&_nc_oc=AQnqCAHcC8Sd9p2XtnrCSGgr8DIoyVPRermBmgztWuZiUjNMBJyyY-gyxAp2_tuCKC0&tn=RhnTz64o1iYenL8d&_nc_ht=scontent.fjsr13-1.fna&oh=00_AT82Z79E5jCf8-GYKPs7nySJhy9XkbtHm15Wpji0mZikgg&oe=62ED6939"
+    },
+    {
+        "initial": "S22",
+        "name": "Dibyo Fabian Dofadar",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.fabian.dofadar@bracu.ac.bd"
+    },
+    {
+        "initial": "S23",
+        "name": "Sifat Tanvir",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.sifat.tanvir@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQEX3wNvXhsJWQ/profile-displayphoto-shrink_800_800/0/1588199589736?e=1662595200&v=beta&t=lxB5ISN-EsYIO6HOyUJ3ijwaUbDKD5EzIS0jI55JGrM"
+    },
+    {
+        "initial": "S24",
+        "name": "Modhumonty Das",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.modhumonty.das@bracu.ac.bd"
+    },
+    {
+        "initial": "S25",
+        "name": "Shakir Rouf",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.shakir.rouf@bracu.ac.bd",
+        "imageUrl": "https://scontent.fjsr13-1.fna.fbcdn.net/v/t1.6435-9/132026948_10224311824404715_6162443146305191795_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFmJJlXIvEbFDUFZLOJVLun-AM5bM-QGgT4Azlsz5AaBNU7O9MJZ9sR1NZtcVpimTb8WYgdomEpq8RGN60S_Wlk&_nc_ohc=v1iejnnh6IoAX9OFbIe&_nc_ht=scontent.fjsr13-1.fna&oh=00_AT-8szj2zgOaGA3oHPpKqspDECoGEuCPkBFUbqKghzdkVQ&oe=62EB2E58"
+    },
+    {
+        "initial": "S26",
+        "name": "Shovon Bhowmick",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.shovon.bhowmick@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQF423FIggxcdQ/profile-displayphoto-shrink_800_800/0/1612471206241?e=1662595200&v=beta&t=1_8b88qb5YB8HFx1bRYGc7OYkwxKLNLApp45p-QvhrI"
+    },
+    {
+        "initial": "S27",
+        "name": "Md Zubayer Ahmed Fahim",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.zubayer.ahmed@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQE4YEjJ7Y9qGQ/profile-displayphoto-shrink_800_800/0/1591984409202?e=1662595200&v=beta&t=qEFn5OLRHJ8wWBrOy4E7HLIN8RenhVzUZIg5LjUUFZA"
+    },
+    {
+        "initial": "S28",
+        "name": "Nasif Noor Saleheen",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.nasif.saleheen@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQHTFdVAB0wi9g/profile-displayphoto-shrink_800_800/0/1531855610238?e=1662595200&v=beta&t=zCepjUUnJsixIlVtgXkJhOT8_eC531_KMAca4aFd_eg"
+    },
+    {
+        "initial": "S31",
+        "name": "Nehrin Siddique Payel",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.nehrin.siddique@bracu.ac.bd"
+    },
+    {
+        "initial": "S32",
+        "name": "Tausif Ahmed",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.ahmed.tausif@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHRxqz80F2rQg/profile-displayphoto-shrink_800_800/0/1616621727734?e=1662595200&v=beta&t=SZlf2nLfKocVq_tk41xxCM8sPYgfQgNX0KhT5FYtgrU"
+    },
+    {
+        "initial": "S33",
+        "name": "Mohammed Julfikar Ali Mahbub",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.julfikar.ali@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQF6yUPVC3KfCw/profile-displayphoto-shrink_800_800/0/1654138898033?e=1662595200&v=beta&t=5xHdXXCE4JO9EdC0wupnofzD1RSLrSDPy9UynWRNYrM"
+    },
+    {
+        "initial": "S34",
+        "name": "Shafqat Hasan",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.shafqat.hasan@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQGzlaWWrj8owQ/profile-displayphoto-shrink_800_800/0/1647282359339?e=1662595200&v=beta&t=zqjMIGi02TsmttRBGPuE_Tp_OSoFGk_pE-tLvLZnHUU"
+    },
+    {
+        "initial": "S35",
+        "name": "Mohammad Badrul Hossain",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.badrul.hossain@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHe3NnYZMrtjg/profile-displayphoto-shrink_800_800/0/1541630725813?e=1662595200&v=beta&t=D77L8ZKsM-U4LVy36dfV-mV4H-9IAWuRPQzZqOgLdG0"
+    },
+    {
+        "initial": "S36",
+        "name": "Md. Sabbir Ahmed",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.sabbir.ahmed@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGQ1HVFWu66-A/profile-displayphoto-shrink_800_800/0/1626501571633?e=1662595200&v=beta&t=dLUVE3vBDHvWhMA7UO4oXcxu59VLmisXS-1rIoFF-dA"
+    },
+    {
+        "initial": "S37",
+        "name": "Lamiah Israt",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "lamiah.israt@g.bracu.ac.bd"
+    },
+    {
+        "initial": "S38",
+        "name": "Jawaril Munshad Abedin",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.jawaril.munshad@bracu.ac.bd"
+    },
+    {
+        "initial": "S39",
+        "name": "Sabiha Nasrin",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "sabiha.nasrin@g.bracu.ac.bd"
+    },
+    {
+        "initial": "S40",
+        "name": "Sumaiya Akter",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.sumaiya.akter@bracu.ac.bd"
+    },
+    {
+        "initial": "S41",
+        "name": "Nishat Nayla",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.nishat.nayla@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHK_E-OkrYaVg/profile-displayphoto-shrink_800_800/0/1643376471032?e=1662595200&v=beta&t=vhOzdbnUu0zDA7PXJq0m3QyR9r6DYaTWqBbUnCLrzmA"
+    },
+    {
+        "initial": "S43",
+        "name": "Kabbya Kantam Patwary",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.kabbya.kantam@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQETmSH-nAayzQ/profile-displayphoto-shrink_800_800/0/1638522846077?e=1662595200&v=beta&t=i2VwpoW2OxOMFt9S9zKS4AiEd3ODJuuPJTA7q-HwdBU"
+    },
+    {
+        "initial": "S44",
+        "name": "Mahjabeen Tamanna Abed",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.tamanna.abed@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGFVKXQo2r-0A/profile-displayphoto-shrink_800_800/0/1622457639657?e=1662595200&v=beta&t=2xkVfjrikw8VIi3SMMEmeztSHBybOOczT99T2SBeoSI"
+    },
+    {
+        "initial": "S45",
+        "name": "Fariha Islam Ohana",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.fariha.islam@bracu.ac.bd",
+        "imageUrl": "https://scontent.fjsr13-1.fna.fbcdn.net/v/t39.30808-6/280030936_5030401553717536_4742880272533539111_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEU64faoLLMqSgYqilRxrQXmHfaN5x5NkOYd9o3nHk2Q0bEPcHk8AVahjGk9aganp367Kgd7C546WKfqJuzlJgu&_nc_ohc=AJ-L7UrjBDkAX_ikt7O&_nc_ht=scontent.fjsr13-1.fna&oh=00_AT8k6KgUT-SwV_qmvzyASzIfXh5AkJgySluVmD2LBMsZ9g&oe=62CB2537"
+    },
+    {
+        "initial": "S46",
+        "name": "SK. ATIK TAJWAR SIHAN",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "sk.atik.tajwar.sihan@g.bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQErWcyHf_U4Uw/profile-displayphoto-shrink_800_800/0/1631032478310?e=1662595200&v=beta&t=kht54kbB4AUEIzGi8puwul_JRzOzLkPHhukJLvtDyAc"
+    },
+    {
+        "initial": "S47",
+        "name": "Akhlaqur Rahman Sabby",
+        "designation": "Lecturer",
+        "status": "Contractual",
+        "email": "ext.sabby.rahman@bracu.ac.bd"
+    },
+    {
+        "initial": "S48",
+        "name": "Imam Mohammad Zulkarnain",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.imam.mohammad@bracu.ac.bd"
+    },
+    {
+        "initial": "S49",
+        "name": "Abdullah Al Nakib",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.abdullah.alnakib@bracu.ac.bd"
+    },
+    {
+        "initial": "S50",
+        "name": "Khondoker Nazia Iqbal",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.nazia.iqbal@bracu.ac.bd"
+    },
+    {
+        "initial": "S51",
+        "name": "Homaira Huda Shomee",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "homaira.huda.shomee@g.bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHH8AtWBd8G4w/profile-displayphoto-shrink_800_800/0/1607676061139?e=1662595200&v=beta&t=HQHAmfGpEcBZxHjvLOuxDrlLqESwPg5I0oIN2g2zSVM"
+    },
+    {
+        "initial": "S52",
+        "name": "Joydhriti Choudhury",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "joydhriti.choudhury@g.bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQFC0_MqKG1JcQ/profile-displayphoto-shrink_800_800/0/1544761028207?e=1662595200&v=beta&t=Pi7_KX0U2V1FnBwokWCh1Cxvrqb-k_NMIxHKS20nz14"
+    },
+    {
+        "initial": "S53",
+        "name": "Noshin Nawal",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "noshin.nawal@g.bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQF72gnmtnLSSw/profile-displayphoto-shrink_800_800/0/1567285169793?e=1662595200&v=beta&t=A8UYOU2ZEx__oxRYmUNEPHODBxbftoSn4zMDOhPYAlM"
+    },
+    {
+        "initial": "S54",
+        "name": "S. M. FARAH AL FAHIM",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.farah.fahim@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQEY1jNo3Pt37g/profile-displayphoto-shrink_800_800/0/1547561819369?e=1662595200&v=beta&t=iSOhFgtHX4O7i3dF5VnSdjyOzFOOl2_f8ZXc080bSiU"
+    },
+    {
+        "initial": "S55",
+        "name": "Mashfiq Shahriar Zaman",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "mashfiq.shahriar.zaman@g.bracu.ac.bd"
+    },
+    {
+        "initial": "S56",
+        "name": "Ragib Morshed",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ragib.morshed@g.bracu.ac.bd"
+    },
+    {
+        "initial": "S57",
+        "name": "Md. Asif Talukdar",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.asif.talukdar@bracu.ac.bd"
+    },
+    {
+        "initial": "S59",
+        "name": "Mohammad Fahim",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.mohammad.fahim@bracu.ac.bd"
+    },
+    {
+        "initial": "S60",
+        "name": "Sheikh Araf Noshin",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.sheikh.araf@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQGE2PlFHXRKFg/profile-displayphoto-shrink_800_800/0/1655045166697?e=1662595200&v=beta&t=bIPYBAUfToTFsCUg054zd03Bj7vTNj_wOdhEZjctD9g"
+    },
+    {
+        "initial": "S62",
+        "name": "Adittya Soukarjya Saha",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.adittya.saha@bracu.ac.bd"
+    },
+    {
+        "initial": "S63",
+        "name": "Monirul Haque",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.monirul.haque@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQH-50THYq28HA/profile-displayphoto-shrink_800_800/0/1585664835041?e=1662595200&v=beta&t=eb1PcuduYwkvyWIkrq0UCYrGPxqdHeubGlD4hva1Lec"
+    },
+    {
+        "initial": "S64",
+        "name": "Md. Mahedi Hassan",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.mahedi.hassan@bracu.ac.bd"
+    },
+    {
+        "initial": "S65",
+        "name": "Zarif Raiyan Arefeen",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.zarif.raiyan@bracu.ac.bd"
+    },
+    {
+        "initial": "S66",
+        "name": "MD Rifat Alam Pomil",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "md.rifat.alam.pomil@g.bracu.ac.bd",
+        "imageUrl": "https://scontent.fjsr13-1.fna.fbcdn.net/v/t39.30808-6/280070731_7279085058830285_5033484327678510349_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE-oniHPOFbCY8NAI64Y1X1pwa97S13pHOnBr3tLXekc0RUFiZKC4fUSHXrmv-mt3i27XIHAHVFBm_Xshor68le&_nc_ohc=GYcDLk9EcNUAX9SDh5J&tn=RhnTz64o1iYenL8d&_nc_ht=scontent.fjsr13-1.fna&oh=00_AT-y14P8b2KfHpdu0QEQRndNO8KikeVetnxIjQuSXxIwbA&oe=62CB7E59"
+    },
+    {
+        "initial": "S67",
+        "name": "MD. Tanvir Zahid",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.tanvir.zahid@bracu.ac.bd"
+    },
+    {
+        "initial": "S68",
+        "name": "Zarin Tahia Hossain",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "zarin.tahia.hossain@g.bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQFmT7puY_bagw/profile-displayphoto-shrink_800_800/0/1589194220211?e=1662595200&v=beta&t=cLI0MJEZwI1fKnFKpvCwn4ht22z6NimqEEFnqPNIRmE"
+    },
+    {
+        "initial": "S69",
+        "name": "Rakin Bin Rabbani",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "rakin.bin.rabbani@g.bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5635AQHLNLig-1ARBA/profile-framedphoto-shrink_800_800/0/1600321981710?e=1657753200&v=beta&t=-T9BRPSfqASXA5gGR4idnr7e7IvZnbpuIyBJbF9Vo_0"
+    },
+    {
+        "initial": "S70",
+        "name": "Shifat E Arman",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.shifat.arman@bracu.ac.bd"
+    },
+    {
+        "initial": "S71",
+        "name": "Md Nakhla Rafi",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.nakhla.rafi@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGh3a3Ox7TnfA/profile-displayphoto-shrink_800_800/0/1595262115546?e=1662595200&v=beta&t=zQk54JW1al3KG85Nl9Ne-yCKirBUOapGU4tkoWlrXEk"
+    },
+    {
+        "initial": "NMH",
+        "name": "Nishat Mahzabin Helaly",
+        "designation": "C. Lecturer",
+        "status": "VC's Fellow",
+        "email": "ext.nishat.mahzabin@bracu.ac.bd"
+    },
+    {
+        "initial": "SCG",
+        "name": "Ms. Sarah Cynthia Gomes",
+        "designation": "Lecturer I",
+        "status": "Full Time",
+        "room": "UB80708",
+        "email": "sarah.cynthia@bracu.ac.bd"
+    },
+    {
+        "initial": "TMA",
+        "name": "Tanvir Ahmed Masum",
+        "designation": "C. Lecturer",
+        "status": "VC's Fellow",
+        "email": "tanvir.masum@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQHTKHOx6pmDlg/profile-displayphoto-shrink_800_800/0/1620640024609?e=1662595200&v=beta&t=iymTAxc5xIVXhJFQNzAng8wupAMcwgXkBXkA_uZVleQ"
+    },
+    {
+        "initial": "TOD",
+        "name": "Tonushree Dutta",
+        "designation": "C. Lecturer",
+        "status": "VC's Fellow",
+        "email": "tonushree.dutta@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQE4BJpodmAILA/profile-displayphoto-shrink_800_800/0/1637511097409?e=1662595200&v=beta&t=9aVmxSX2wJ1opfsDQOkzwmwoNT1ziZALWfkmNOZ_AJc"
+    },
+    {
+        "initial": "ABM",
+        "name": "Abu Musa Al Ashary",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.abu.musa@bracu.ac.bd",
+        "imageUrl": "https://scontent.fjsr13-1.fna.fbcdn.net/v/t1.6435-9/74278754_2340158422960521_1625343125218790001_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGP2BU4zhs7fg9VJV1Y8XjtKqQIyBFHC78qpAjIEUcLvyEf5eEF17SiX9YWDw607lk6myFcyRJU8zcW1nvhhHBb&_nc_ohc=xbdiM03fE0IAX9iLoDP&tn=RhnTz64o1iYenL8d&_nc_ht=scontent.fjsr13-1.fna&oh=00_AT_RTUM8Z-1WFfe2eBmSRUufBq1_cicMMS1f2rV4gsmPtw&oe=62EA1735"
+    },
+    {
+        "initial": "DIB",
+        "name": "Dipika Barman",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.dipika.barman@bracu.ac.bd",
+        "imageUrl": "https://scontent.fjsr13-1.fna.fbcdn.net/v/t39.30808-6/270172869_7409112512447693_1773984594438964686_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_eui2=AeHmtAXJTz_lm3Q2AtLBzvAKWtFwE1KfHnRa0XATUp8edD0hSvcI77ZLyNrByb18ZYxB8ROPIzmJRHHOOIx-Vgn9&_nc_ohc=whKOVz_c3OYAX8knK7c&_nc_ht=scontent.fjsr13-1.fna&oh=00_AT9qxMSoLYnNwF6TJLIpL6y9EzcW7E0wFJ1Vh0w8op6-PQ&oe=62CAA8E0"
+    },
+    {
+        "initial": "FSH",
+        "name": "Md. Farhan Shadiq",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.farhan.shadiq@bracu.ac.bd"
+    },
+    {
+        "initial": "E04",
+        "name": "Mr. Yasir Fatha Abed",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.yasir.fatha@bracu.ac.bd"
+    },
+    {
+        "initial": "E05",
+        "name": "Chowdhury Azimul Haque",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.c.azimulhaque@bracu.ac.bd"
+    },
+    {
+        "initial": "E06",
+        "name": "Adnan Abdullah",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.adnan.abdullah@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGjW_mVnfBphg/profile-displayphoto-shrink_800_800/0/1617343347685?e=1662595200&v=beta&t=2ALbcx-VmwbsxQDoCsRpu8YbJQ7kpf324MRvfpWUW90"
+    },
+    {
+        "initial": "TAF",
+        "name": "Tasnim Ferdous",
+        "designation": "Lecturer I",
+        "status": "Full Time",
+        "room": "UB80708",
+        "email": "tasnim.ferdous@bracu.ac.bd"
+    },
+    {
+        "initial": "SAH",
+        "name": "Shoaib Ahmed",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.shoaib.ahmed@bracu.ac.bd"
+    },
+    {
+        "initial": "SBS",
+        "name": "Md. Saiful Bari Siddiqui",
+        "designation": "Lecturer I",
+        "status": "Full Time",
+        "room": "UB80711",
+        "email": "saiful.bari@bracu.ac.bd"
+    },
+    {
+        "initial": "IAK",
+        "name": "Ishtiaque Ahmed Khan",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.ishtiaque.ahmed@bracu.ac.bd"
+    },
+    {
+        "initial": "E13",
+        "name": "Talha Ibn Mahmud",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.talha.mahmud@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQG_sLpsrvwTAA/profile-displayphoto-shrink_800_800/0/1517345320984?e=1662595200&v=beta&t=BTyZoo3pnnJyy_y8X3nlBnYwNlMJocb-W_fFDvtAXiY"
+    },
+    {
+        "initial": "AHB",
+        "name": "Md Asif Hossain Bhuiyan",
+        "designation": "Lecturer I",
+        "status": "Full Time",
+        "room": "UB80711",
+        "email": "asif.hossain@bracu.ac.bd"
+    },
+    {
+        "initial": "PDS",
+        "name": "Purbayan Das",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.purbayan.das@bracu.ac.bd"
+    },
+    {
+        "initial": "AYS",
+        "name": "Ayon Sarker",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.ayon.sarker@bracu.ac.bd"
+    },
+    {
+        "initial": "MIS",
+        "name": "Mumtahina Islam Sukanya",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.islam.sukanya@bracu.ac.bd"
+    },
+    {
+        "initial": "HIR",
+        "name": "Himaddri Roy",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.himaddri.roy@bracu.ac.bd"
+    },
+    {
+        "initial": "MAK",
+        "name": "Mohammad Ali Kazmi",
+        "designation": "C. Lecturer",
+        "status": "Contractual",
+        "email": "ext.mohammad.ali@bracu.ac.bd",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFQVng9kAb_qQ/profile-displayphoto-shrink_800_800/0/1655452894018?e=1662595200&v=beta&t=ZifKRTCA_xOpLiyRK-VhKNJUllWFJ33i5AoWHl9DDck"
+    }
+]
