@@ -1,5 +1,13 @@
 [
-
+    {
+        "initial": "ABR",
+        "name": "Abir Bir Rafi",
+        "designation": "Senior Lecturer",
+        "status": "Full Time",
+        "room": "UB80714",
+        "email": "annajiat@bracu.ac.bd",
+        "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/Annajiat%20Alim%20Rasel_0.jpg?itok=lGosQHuS&c=6d4df9bbd818d59b13abfb0df90e5b74"
+    },
     {
         "initial": "AAR",
         "name": "Mr. Annajiat Alim Rasel",
