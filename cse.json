@@ -46,14 +46,6 @@
         "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/2022/04/26/8063%20%5BMR.AMINUL%20HUQ%5D.jpg?itok=7j0Ca4lj&c=0c32ad43f405fd95cf8c46d13c0efb71"
     },
     {
-        "initial": "AMK",
-        "name": "Dr. Abu Mohammad Khan",
-        "designation": "Associate Professor",
-        "status": "Full Time",
-        "room": "UB80710",
-        "email": "abu.khan@bracu.ac.bd"
-    },
-    {
         "initial": "ARF",
         "name": "Mr. Arif Shakil",
         "designation": "Lecturer",
@@ -177,6 +169,14 @@
         "room": "UB80811",
         "email": "khalilur@bracu.ac.bd",
         "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/Dr.%20Md.%20Khalilur%20Rhaman.jpg?itok=ISKg4A69&c=0efad7fd5598fcaec7507744a2ec9774"
+    },
+    {
+        "initial": "AMK",
+        "name": "Dr. Abu Mohammad Khan",
+        "designation": "Associate Professor",
+        "status": "Full Time",
+        "room": "UB80710",
+        "email": "abu.khan@bracu.ac.bd"
     },
     {
         "initial": "KKB",
